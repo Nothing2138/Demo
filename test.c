@@ -1,6 +1,7 @@
 #include <stdio>
 int main(int argc, const char *argv[])
 {
-	print("hello!\n")
+	printf("hello!\n")
+	printf("test\n");
 	return 0;
 }
